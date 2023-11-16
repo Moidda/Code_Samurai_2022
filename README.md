@@ -1,5 +1,9 @@
 # Repository for Code Samurai 2022 Hackathon
 
+# Schema Diagram
+![image](https://github.com/Moidda/Code_Samurai_2022/assets/57999057/0755f3c1-b7a2-410b-80ac-605819693f8f)
+
+
 # Loading into database when server starts
 ```python
 from django.db import connection
